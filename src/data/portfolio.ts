@@ -62,16 +62,16 @@ export const portfolio: PortfolioData = {
     email,
     linkedin,
     github,
-    headline: 'Applied Machine Learning | Data Science | AI Engineering',
+    headline: 'Artificial Intelligence | Data Science | Machine Learning',
     summary:
-      'Graduate student in Artificial Intelligence with experience developing machine learning models, data pipelines, and AI applications using Python, SQL, AWS, and modern MLOps practices. Experienced in predictive modeling, model evaluation, RAG systems, and applying AI technologies to solve real-world challenges.',
+      'Graduate student in Artificial Intelligence with experience developing machine learning models, data pipelines, and AI applications using Python, SQL, AWS, and modern MLOps practices. Experienced in predictive modeling, RAG systems, and applying AI technologies to solve real-world challenges.',
     about:
       'With a multidisciplinary background spanning artificial intelligence, data analytics, information systems, and law, I have applied machine learning, generative AI, data analytics, automation, and cloud technologies through academic projects, research assistantships, and professional experience to solve practical problems and support data-driven decision making.',
   },
   targetRoles: [
-    'Applied Machine Learning',
+    'Artificial Intelligence',
     'Data Science',
-    'AI Engineering',
+    'Machine Learning',
   ],
   skills: [
     {

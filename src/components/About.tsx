@@ -18,7 +18,7 @@ export default function About({ personal }: AboutProps) {
           </div>
           <div>
             <dt>Focus</dt>
-            <dd>Applied AI, predictive modeling, analytics, and scalable ML systems</dd>
+            <dd>AI Applications, Data Science, and Machine Learning</dd>
           </div>
         </dl>
       </div>

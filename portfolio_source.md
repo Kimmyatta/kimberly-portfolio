@@ -10,13 +10,13 @@ GitHub: https://github.com/Kimmyatta
 
 ## Target Roles
 
-- Applied Machine Learning
+- Artificial Intelligence
 - Data Science
-- AI Engineering
+- Machine Learning
 
 ## Professional Summary
 
-Graduate student in Artificial Intelligence with experience developing machine learning models, data pipelines, and AI applications using Python, SQL, AWS, and modern MLOps practices. Experienced in predictive modeling, model evaluation, RAG systems, and applying AI technologies to solve real-world challenges.
+Graduate student in Artificial Intelligence with experience developing machine learning models, data pipelines, and AI applications using Python, SQL, AWS, and modern MLOps practices. Experienced in predictive modeling, RAG systems, and applying AI technologies to solve real-world challenges.
 
 ## About
 

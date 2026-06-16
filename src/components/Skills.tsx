@@ -10,7 +10,7 @@ export default function Skills({ skills }: SkillsProps) {
     <section className="section" id="skills">
       <SectionHeading
         eyebrow="Skills"
-        title="Technical toolkit"
+        title="Technical Skills"
         description="A focused mix of modeling, GenAI, analytics, and production workflow tools."
       />
       <div className="skill-grid">
