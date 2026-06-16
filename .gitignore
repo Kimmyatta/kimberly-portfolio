@@ -1,0 +1,6 @@
+node_modules/
+dist/
+/.env
+/.vscode/
+chicago-crime-prediction/
+international-admissions-analytics/
