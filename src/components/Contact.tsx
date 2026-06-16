@@ -10,7 +10,7 @@ export default function Contact({ personal }: ContactProps) {
     <section className="section contact-section" id="contact">
       <SectionHeading
         eyebrow="Contact"
-        title="Connect with Kimberly"
+        title="Connect with me"
         description="Available for data science, AI engineering, machine learning, and MLOps opportunities."
       />
 
