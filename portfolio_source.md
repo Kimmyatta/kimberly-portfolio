@@ -46,6 +46,26 @@ Power BI, Tableau, Excel, pandas, NumPy
 
 ## Projects
 
+### AfriSafeBench
+
+Category: AI Safety / Benchmarking / Governance
+GitHub: https://github.com/Kimmyatta/AfriSafeBench
+Demo: https://afrisafebench-ai-safety.vercel.app/
+Tools: Python, FastAPI, React, TypeScript, Groq, FAISS, SentenceTransformers, Vite
+
+Problem:
+Evaluated whether large language models can identify AI safety and governance risks in African healthcare AI deployment scenarios.
+
+What I Built:
+- Created a 25-scenario benchmark across seven African countries and ten AI safety risk categories
+- Built scoring logic for matched, missed, and extra risks with 0/1/2 category-level coverage
+- Compared three Groq-accessible models across 75 scenario evaluations
+- Added semantic rescoring and human-review flags for model responses that used different wording
+- Built a framework-guided report mode using WHO, NIST, UNESCO, OECD, and African Union guidance
+
+Impact:
+Demonstrates applied AI safety evaluation, model benchmarking, governance analysis, retrieval workflows, and full-stack tool development for healthcare AI deployment contexts.
+
 ### AI Compliance Assistant
 
 Category: GenAI / RAG / AI Governance

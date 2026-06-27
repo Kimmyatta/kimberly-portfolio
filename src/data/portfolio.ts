@@ -97,6 +97,25 @@ export const portfolio: PortfolioData = {
   ],
   projects: [
     {
+      title: 'AfriSafeBench',
+      category: 'AI Safety / Benchmarking / Governance',
+      github: 'https://github.com/Kimmyatta/AfriSafeBench',
+      demo: 'https://afrisafebench-ai-safety.vercel.app/',
+      image: '/images/afrisafebench.png',
+      tools: ['Python', 'FastAPI', 'React', 'TypeScript', 'Groq', 'FAISS', 'SentenceTransformers', 'Vite'],
+      problem:
+        'Evaluated whether large language models can identify AI safety and governance risks in African healthcare AI deployment scenarios.',
+      built: [
+        'Created a 25-scenario benchmark across seven African countries and ten AI safety risk categories',
+        'Built scoring logic for matched, missed, and extra risks with 0/1/2 category-level coverage',
+        'Compared three Groq-accessible models across 75 scenario evaluations',
+        'Added semantic rescoring and human-review flags for model responses that used different wording',
+        'Built a framework-guided report mode using WHO, NIST, UNESCO, OECD, and African Union guidance',
+      ],
+      impact:
+        'Demonstrates applied AI safety evaluation, model benchmarking, governance analysis, retrieval workflows, and full-stack tool development for healthcare AI deployment contexts.',
+    },
+    {
       title: 'AI Compliance Assistant',
       category: 'GenAI / RAG / AI Governance',
       github: 'https://github.com/Kimmyatta/ai-compliance-platform',
