@@ -46,7 +46,7 @@ Power BI, Tableau, Excel, pandas, NumPy
 
 ## Projects
 
-### AfriSafeBench
+### Global South AI Safety Hackathon - AfriSafeBench
 
 Category: AI Safety / Benchmarking / Governance
 GitHub: https://github.com/Kimmyatta/AfriSafeBench
@@ -54,7 +54,7 @@ Demo: https://afrisafebench-ai-safety.vercel.app/
 Tools: Python, FastAPI, React, TypeScript, Groq, FAISS, SentenceTransformers, Vite
 
 Problem:
-Evaluated whether large language models can identify AI safety and governance risks in African healthcare AI deployment scenarios.
+Participated in the Global South AI Safety Hackathon by building AfriSafeBench, a benchmark and governance-support tool for evaluating whether large language models can identify AI safety risks in African healthcare AI deployment scenarios.
 
 What I Built:
 - Created a 25-scenario benchmark across seven African countries and ten AI safety risk categories
