@@ -101,7 +101,6 @@ export const portfolio: PortfolioData = {
       category: 'AI Safety / Benchmarking / Governance',
       github: 'https://github.com/Kimmyatta/AfriSafeBench',
       demo: 'https://afrisafebench-ai-safety.vercel.app/',
-      image: '/images/afrisafebench.png',
       tools: ['Python', 'FastAPI', 'React', 'TypeScript', 'Groq', 'FAISS', 'SentenceTransformers', 'Vite'],
       problem:
         'Participated in the Global South AI Safety Hackathon by building AfriSafeBench, a benchmark and governance-support tool for evaluating whether large language models can identify AI safety risks in African healthcare AI deployment scenarios.',
